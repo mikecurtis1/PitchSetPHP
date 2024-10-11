@@ -1,27 +1,8 @@
 # PitchSet
 
-A PHP application implementing musical intervals to generate pitch sets such as chords, scales, tetrachords, etc. Pitches are encoded using American Standard Pitch Notation (ASPN).
+A PHP application implementing musical intervals to generate pitch sets such as chords, scales, tetrachords, etc. Pitches are encoded using American Standard Pitch Notation (ASPN). A PitchSet object takes a base pitch along with a keyword for a series of interval sizes and returns a ToneSet of pitches. PitchSet extends the Interval class which is responsible for taking a single pitch along with an interval size to return a pitch matching the interval size.
 
 ## Classes and method examples
-
-### A static method: 
-```
-$tables::getASPNValue('C4', 'Hz')
-```
-Output: `261.626`
-```
-$tables::getASPNValue('C4', 'piano_key')
-```
-Output: `40`
-
-### Instance of a PitchSet for a two-pitch dyad: 
-```
-$dyad = new Dyad($tables, 'C♭4', 'A2');
-foreach ( $dyad->getToneSet() as $tone ) {
-	echo $tone->getASPN() . ' ';
-}
-```
-Output: `C♭4 D4`
 
 ### Instance of a PitchSet for a minor triad:
 ```
@@ -121,3 +102,22 @@ $melodic_minor_scale = new PitchSet($tables, 'C4', 'melodic_minor_scale');
 ```
 Output: `C4 D4 E♭4 F4 G4 A4 B4 C5 C5 B♭4 A♭4 G4 F4 E♭4 D4 C4`
 
+### Instance of Dyad:
+The Dyad class extends the abstract Interval class
+```
+$dyad = new Dyad($tables, 'C♭4', 'A2');
+foreach ( $dyad->getToneSet() as $tone ) {
+	echo $tone->getASPN() . ' ';
+}
+```
+Output: `C♭4 D4`
+
+### A static method: 
+```
+$tables::getASPNValue('C4', 'Hz')
+```
+Output: `261.626`
+```
+$tables::getASPNValue('C4', 'piano_key')
+```
+Output: `40`
