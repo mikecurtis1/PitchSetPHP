@@ -106,7 +106,6 @@ $harmonic_tetrachord = new PitchSet($tables, 'C4', 'harmonic_tetrachord');
 ```
 Output: `C4 D♭4 E4 F4`
 ```
-```
 $French_augmented_sixth_chord = new PitchSet($tables, 'C4', 'French_augmented_sixth_chord');
 ...
 ```
