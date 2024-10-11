@@ -4,7 +4,7 @@ A PHP application implementing musical intervals to generate pitch sets such as 
 
 ## Classes and method examples
 
-A static method: 
+### A static method: 
 ```
 $tables::getASPNValue('C4', 'Hz')
 ```
@@ -14,7 +14,7 @@ $tables::getASPNValue('C4', 'piano_key')
 ```
 Output: `40`
 
-Instance of a PitchSet for a two-pitch dyad: 
+### Instance of a PitchSet for a two-pitch dyad: 
 ```
 $dyad = new Dyad($tables, 'C♭4', 'A2');
 foreach ( $dyad->getToneSet() as $tone ) {
@@ -23,7 +23,7 @@ foreach ( $dyad->getToneSet() as $tone ) {
 ```
 Output: `C♭4 D4`
 
-Instance of a PitchSet for a minor triad:
+### Instance of a PitchSet for a minor triad:
 ```
 $minor_triad = new PitchSet($tables, 'C4', 'minor_triad');
 foreach ( $minor_triad->getToneSet() as $tone ) {
@@ -32,7 +32,7 @@ foreach ( $minor_triad->getToneSet() as $tone ) {
 ```
 Output: `C4 E♭4 G4`
 
-Example of a PitchSet object: 
+#### Example of a PitchSet object: 
 ```
 PitchSet Object
 (
@@ -90,7 +90,7 @@ PitchSet Object
 
 )
 ```
-Instance of a PitchSet for a major scale:
+### Instance of a PitchSet for a major scale:
 ```
 $major_scale = new PitchSet($tables, 'E♭4', 'major_scale');
 foreach ( $major_scale->getToneSet() as $tone ) {
@@ -99,7 +99,7 @@ foreach ( $major_scale->getToneSet() as $tone ) {
 ```
 Output: `E♭4 F4 G4 A♭4 B♭4 C5 D5 E♭5`
 
-Additional examples of more complex musical sets: 
+## Additional examples of more complex musical sets: 
 ```
 $harmonic_tetrachord = new PitchSet($tables, 'C4', 'harmonic_tetrachord');
 ...
