@@ -97,7 +97,7 @@ foreach ( $major_scale->getToneSet() as $tone ) {
 	echo $tone->getASPN() . ' ';
 }
 ```
-Output: ``
+Output: `E♭4 F4 G4 A♭4 B♭4 C5 D5 E♭5`
 
 Additional examples of more complex musical sets: 
 ```
