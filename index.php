@@ -53,8 +53,14 @@ $tables = MusicTables::config();
 
 /* ********** */
 echo "<hr />\n";
+echo '<div class="code">$tables::getASPNValue(\'C4\', \'Hz\')' . "</div>\n";
+echo "<div class=\"tones\">" . print_r($tables::getASPNValue('C4', 'Hz'), true) . "</div>\n";
+echo "\n";
+
+/* ********** */
+echo "<hr />\n";
 echo '<div class="code">$tables::getASPNValue(\'C4\', \'piano_key\')' . "</div>\n";
-echo var_dump($tables::getASPNValue('C4', 'piano_key'));
+echo "<div class=\"tones\">" . print_r($tables::getASPNValue('C4', 'piano_key'), true) . "</div>\n";
 echo "\n";
 
 /* ********** */
