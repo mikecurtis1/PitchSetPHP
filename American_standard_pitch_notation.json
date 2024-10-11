@@ -1,0 +1,2282 @@
+{
+    "B♯7": {
+        "letter": "B",
+        "accidental": "♯",
+        "octave": 7,
+        "piano_key": 88,
+        "Hz": 4186.01,
+        "natural": "C8",
+        "sharp": "B♯7",
+        "flat": "D𝄫8"
+    },
+    "C8": {
+        "letter": "C",
+        "accidental": "",
+        "octave": 8,
+        "piano_key": 88,
+        "Hz": 4186.01,
+        "natural": "C8",
+        "sharp": "B♯8",
+        "flat": "D𝄫8"
+    },
+    "D𝄫8": {
+        "letter": "D",
+        "accidental": "𝄫",
+        "octave": 8,
+        "piano_key": 88,
+        "Hz": 4186.01,
+        "natural": "C8",
+        "sharp": "B♯8",
+        "flat": "D𝄫8"
+    },
+    "A𝄪7": {
+        "letter": "A",
+        "accidental": "𝄪",
+        "octave": 7,
+        "piano_key": 87,
+        "Hz": 3951.07,
+        "natural": "B7",
+        "sharp": "A𝄪7",
+        "flat": "C♭7"
+    },
+    "B7": {
+        "letter": "B",
+        "accidental": "",
+        "octave": 7,
+        "piano_key": 87,
+        "Hz": 3951.07,
+        "natural": "B7",
+        "sharp": "A𝄪7",
+        "flat": "C♭7"
+    },
+    "C♭8": {
+        "letter": "C",
+        "accidental": "♭",
+        "octave": 8,
+        "piano_key": 87,
+        "Hz": 3951.07,
+        "natural": "B7",
+        "sharp": "A𝄪7",
+        "flat": "C♭8"
+    },
+    "A♯7": {
+        "letter": "A",
+        "accidental": "♯",
+        "octave": 7,
+        "piano_key": 86,
+        "Hz": 3729.31,
+        "natural": "",
+        "sharp": "A♯7",
+        "flat": "B♭7"
+    },
+    "B♭7": {
+        "letter": "B",
+        "accidental": "♭",
+        "octave": 7,
+        "piano_key": 86,
+        "Hz": 3729.31,
+        "natural": "",
+        "sharp": "A♯7",
+        "flat": "B♭7"
+    },
+    "G𝄪7": {
+        "letter": "G",
+        "accidental": "𝄪",
+        "octave": 7,
+        "piano_key": 85,
+        "Hz": 3520,
+        "natural": "A7",
+        "sharp": "G𝄪7",
+        "flat": "B𝄫7"
+    },
+    "A7": {
+        "letter": "A",
+        "accidental": "",
+        "octave": 7,
+        "piano_key": 85,
+        "Hz": 3520,
+        "natural": "A7",
+        "sharp": "G𝄪7",
+        "flat": "B𝄫7"
+    },
+    "B𝄫7": {
+        "letter": "B",
+        "accidental": "𝄫",
+        "octave": 7,
+        "piano_key": 85,
+        "Hz": 3520,
+        "natural": "A7",
+        "sharp": "G𝄪7",
+        "flat": "B𝄫7"
+    },
+    "G♯7": {
+        "letter": "G",
+        "accidental": "♯",
+        "octave": 7,
+        "piano_key": 84,
+        "Hz": 3322.44,
+        "natural": "",
+        "sharp": "G♯7",
+        "flat": "A♭7"
+    },
+    "A♭7": {
+        "letter": "A",
+        "accidental": "♭",
+        "octave": 7,
+        "piano_key": 84,
+        "Hz": 3322.44,
+        "natural": "",
+        "sharp": "G♯7",
+        "flat": "A♭7"
+    },
+    "F𝄪7": {
+        "letter": "F",
+        "accidental": "𝄪",
+        "octave": 7,
+        "piano_key": 83,
+        "Hz": 3135.96,
+        "natural": "G7",
+        "sharp": "F𝄪7",
+        "flat": "A𝄫7"
+    },
+    "G7": {
+        "letter": "G",
+        "accidental": "",
+        "octave": 7,
+        "piano_key": 83,
+        "Hz": 3135.96,
+        "natural": "G7",
+        "sharp": "F𝄪7",
+        "flat": "A𝄫7"
+    },
+    "A𝄫7": {
+        "letter": "A",
+        "accidental": "𝄫",
+        "octave": 7,
+        "piano_key": 83,
+        "Hz": 3135.96,
+        "natural": "G7",
+        "sharp": "F𝄪7",
+        "flat": "A𝄫7"
+    },
+    "F♯7": {
+        "letter": "F",
+        "accidental": "♯",
+        "octave": 7,
+        "piano_key": 82,
+        "Hz": 2959.96,
+        "natural": "",
+        "sharp": "F♯7",
+        "flat": "G♭7"
+    },
+    "G♭7": {
+        "letter": "G",
+        "accidental": "♭",
+        "octave": 7,
+        "piano_key": 82,
+        "Hz": 2959.96,
+        "natural": "",
+        "sharp": "F♯7",
+        "flat": "G♭7"
+    },
+    "E♯7": {
+        "letter": "E",
+        "accidental": "♯",
+        "octave": 7,
+        "piano_key": 81,
+        "Hz": 2793.83,
+        "natural": "F7",
+        "sharp": "E♯7",
+        "flat": "G𝄫7"
+    },
+    "F7": {
+        "letter": "F",
+        "accidental": "",
+        "octave": 7,
+        "piano_key": 81,
+        "Hz": 2793.83,
+        "natural": "F7",
+        "sharp": "E♯7",
+        "flat": "G𝄫7"
+    },
+    "G𝄫7": {
+        "letter": "G",
+        "accidental": "𝄫",
+        "octave": 7,
+        "piano_key": 81,
+        "Hz": 2793.83,
+        "natural": "F7",
+        "sharp": "E♯7",
+        "flat": "G𝄫7"
+    },
+    "D𝄪7": {
+        "letter": "D",
+        "accidental": "𝄪",
+        "octave": 7,
+        "piano_key": 80,
+        "Hz": 2637.02,
+        "natural": "E7",
+        "sharp": "D𝄪7",
+        "flat": "F♭7"
+    },
+    "E7": {
+        "letter": "E",
+        "accidental": "",
+        "octave": 7,
+        "piano_key": 80,
+        "Hz": 2637.02,
+        "natural": "E7",
+        "sharp": "D𝄪7",
+        "flat": "F♭7"
+    },
+    "F♭7": {
+        "letter": "F",
+        "accidental": "♭",
+        "octave": 7,
+        "piano_key": 80,
+        "Hz": 2637.02,
+        "natural": "E7",
+        "sharp": "D𝄪7",
+        "flat": "F♭7"
+    },
+    "D♯7": {
+        "letter": "D",
+        "accidental": "♯",
+        "octave": 7,
+        "piano_key": 79,
+        "Hz": 2489.02,
+        "natural": "",
+        "sharp": "D♯7",
+        "flat": "E♭7"
+    },
+    "E♭7": {
+        "letter": "E",
+        "accidental": "♭",
+        "octave": 7,
+        "piano_key": 79,
+        "Hz": 2489.02,
+        "natural": "",
+        "sharp": "D♯7",
+        "flat": "E♭7"
+    },
+    "C𝄪7": {
+        "letter": "C",
+        "accidental": "𝄪",
+        "octave": 7,
+        "piano_key": 78,
+        "Hz": 2349.32,
+        "natural": "D7",
+        "sharp": "C𝄪7",
+        "flat": "E𝄫7"
+    },
+    "D7": {
+        "letter": "D",
+        "accidental": "",
+        "octave": 7,
+        "piano_key": 78,
+        "Hz": 2349.32,
+        "natural": "D7",
+        "sharp": "C𝄪7",
+        "flat": "E𝄫7"
+    },
+    "E𝄫7": {
+        "letter": "E",
+        "accidental": "𝄫",
+        "octave": 7,
+        "piano_key": 78,
+        "Hz": 2349.32,
+        "natural": "D7",
+        "sharp": "C𝄪7",
+        "flat": "E𝄫7"
+    },
+    "C♯7": {
+        "letter": "C",
+        "accidental": "♯",
+        "octave": 7,
+        "piano_key": 77,
+        "Hz": 2217.46,
+        "natural": "",
+        "sharp": "C♯7",
+        "flat": "D♭7"
+    },
+    "D♭7": {
+        "letter": "D",
+        "accidental": "♭",
+        "octave": 7,
+        "piano_key": 77,
+        "Hz": 2217.46,
+        "natural": "",
+        "sharp": "C♯7",
+        "flat": "D♭7"
+    },
+    "B♯6": {
+        "letter": "B",
+        "accidental": "♯",
+        "octave": 6,
+        "piano_key": 76,
+        "Hz": 2093,
+        "natural": "C7",
+        "sharp": "B♯6",
+        "flat": "D𝄫7"
+    },
+    "C7": {
+        "letter": "C",
+        "accidental": "",
+        "octave": 7,
+        "piano_key": 76,
+        "Hz": 2093,
+        "natural": "C7",
+        "sharp": "B♯7",
+        "flat": "D𝄫7"
+    },
+    "D𝄫7": {
+        "letter": "D",
+        "accidental": "𝄫",
+        "octave": 7,
+        "piano_key": 76,
+        "Hz": 2093,
+        "natural": "C7",
+        "sharp": "B♯7",
+        "flat": "D𝄫7"
+    },
+    "A𝄪6": {
+        "letter": "A",
+        "accidental": "𝄪",
+        "octave": 6,
+        "piano_key": 75,
+        "Hz": 1975.53,
+        "natural": "B6",
+        "sharp": "A𝄪6",
+        "flat": "C♭6"
+    },
+    "B6": {
+        "letter": "B",
+        "accidental": "",
+        "octave": 6,
+        "piano_key": 75,
+        "Hz": 1975.53,
+        "natural": "B6",
+        "sharp": "A𝄪6",
+        "flat": "C♭6"
+    },
+    "C♭7": {
+        "letter": "C",
+        "accidental": "♭",
+        "octave": 7,
+        "piano_key": 75,
+        "Hz": 1975.53,
+        "natural": "B6",
+        "sharp": "A𝄪6",
+        "flat": "C♭7"
+    },
+    "A♯6": {
+        "letter": "A",
+        "accidental": "♯",
+        "octave": 6,
+        "piano_key": 74,
+        "Hz": 1864.66,
+        "natural": "",
+        "sharp": "A♯6",
+        "flat": "B♭6"
+    },
+    "B♭6": {
+        "letter": "B",
+        "accidental": "♭",
+        "octave": 6,
+        "piano_key": 74,
+        "Hz": 1864.66,
+        "natural": "",
+        "sharp": "A♯6",
+        "flat": "B♭6"
+    },
+    "G𝄪6": {
+        "letter": "G",
+        "accidental": "𝄪",
+        "octave": 6,
+        "piano_key": 73,
+        "Hz": 1760,
+        "natural": "A6",
+        "sharp": "G𝄪6",
+        "flat": "B𝄫6"
+    },
+    "A6": {
+        "letter": "A",
+        "accidental": "",
+        "octave": 6,
+        "piano_key": 73,
+        "Hz": 1760,
+        "natural": "A6",
+        "sharp": "G𝄪6",
+        "flat": "B𝄫6"
+    },
+    "B𝄫6": {
+        "letter": "B",
+        "accidental": "𝄫",
+        "octave": 6,
+        "piano_key": 73,
+        "Hz": 1760,
+        "natural": "A6",
+        "sharp": "G𝄪6",
+        "flat": "B𝄫6"
+    },
+    "G♯6": {
+        "letter": "G",
+        "accidental": "♯",
+        "octave": 6,
+        "piano_key": 72,
+        "Hz": 1661.22,
+        "natural": "",
+        "sharp": "G♯6",
+        "flat": "A♭6"
+    },
+    "A♭6": {
+        "letter": "A",
+        "accidental": "♭",
+        "octave": 6,
+        "piano_key": 72,
+        "Hz": 1661.22,
+        "natural": "",
+        "sharp": "G♯6",
+        "flat": "A♭6"
+    },
+    "F𝄪6": {
+        "letter": "F",
+        "accidental": "𝄪",
+        "octave": 6,
+        "piano_key": 71,
+        "Hz": 1567.98,
+        "natural": "G6",
+        "sharp": "F𝄪6",
+        "flat": "A𝄫6"
+    },
+    "G6": {
+        "letter": "G",
+        "accidental": "",
+        "octave": 6,
+        "piano_key": 71,
+        "Hz": 1567.98,
+        "natural": "G6",
+        "sharp": "F𝄪6",
+        "flat": "A𝄫6"
+    },
+    "A𝄫6": {
+        "letter": "A",
+        "accidental": "𝄫",
+        "octave": 6,
+        "piano_key": 71,
+        "Hz": 1567.98,
+        "natural": "G6",
+        "sharp": "F𝄪6",
+        "flat": "A𝄫6"
+    },
+    "F♯6": {
+        "letter": "F",
+        "accidental": "♯",
+        "octave": 6,
+        "piano_key": 70,
+        "Hz": 1479.98,
+        "natural": "",
+        "sharp": "F♯6",
+        "flat": "G♭6"
+    },
+    "G♭6": {
+        "letter": "G",
+        "accidental": "♭",
+        "octave": 6,
+        "piano_key": 70,
+        "Hz": 1479.98,
+        "natural": "",
+        "sharp": "F♯6",
+        "flat": "G♭6"
+    },
+    "E♯6": {
+        "letter": "E",
+        "accidental": "♯",
+        "octave": 6,
+        "piano_key": 69,
+        "Hz": 1396.91,
+        "natural": "F6",
+        "sharp": "E♯6",
+        "flat": "G𝄫6"
+    },
+    "F6": {
+        "letter": "F",
+        "accidental": "",
+        "octave": 6,
+        "piano_key": 69,
+        "Hz": 1396.91,
+        "natural": "F6",
+        "sharp": "E♯6",
+        "flat": "G𝄫6"
+    },
+    "G𝄫6": {
+        "letter": "G",
+        "accidental": "𝄫",
+        "octave": 6,
+        "piano_key": 69,
+        "Hz": 1396.91,
+        "natural": "F6",
+        "sharp": "E♯6",
+        "flat": "G𝄫6"
+    },
+    "D𝄪6": {
+        "letter": "D",
+        "accidental": "𝄪",
+        "octave": 6,
+        "piano_key": 68,
+        "Hz": 1318.51,
+        "natural": "E6",
+        "sharp": "D𝄪6",
+        "flat": "F♭6"
+    },
+    "E6": {
+        "letter": "E",
+        "accidental": "",
+        "octave": 6,
+        "piano_key": 68,
+        "Hz": 1318.51,
+        "natural": "E6",
+        "sharp": "D𝄪6",
+        "flat": "F♭6"
+    },
+    "F♭6": {
+        "letter": "F",
+        "accidental": "♭",
+        "octave": 6,
+        "piano_key": 68,
+        "Hz": 1318.51,
+        "natural": "E6",
+        "sharp": "D𝄪6",
+        "flat": "F♭6"
+    },
+    "D♯6": {
+        "letter": "D",
+        "accidental": "♯",
+        "octave": 6,
+        "piano_key": 67,
+        "Hz": 1244.51,
+        "natural": "",
+        "sharp": "D♯6",
+        "flat": "E♭6"
+    },
+    "E♭6": {
+        "letter": "E",
+        "accidental": "♭",
+        "octave": 6,
+        "piano_key": 67,
+        "Hz": 1244.51,
+        "natural": "",
+        "sharp": "D♯6",
+        "flat": "E♭6"
+    },
+    "C𝄪6": {
+        "letter": "C",
+        "accidental": "𝄪",
+        "octave": 6,
+        "piano_key": 66,
+        "Hz": 1174.66,
+        "natural": "D6",
+        "sharp": "C𝄪6",
+        "flat": "E𝄫6"
+    },
+    "D6": {
+        "letter": "D",
+        "accidental": "",
+        "octave": 6,
+        "piano_key": 66,
+        "Hz": 1174.66,
+        "natural": "D6",
+        "sharp": "C𝄪6",
+        "flat": "E𝄫6"
+    },
+    "E𝄫6": {
+        "letter": "E",
+        "accidental": "𝄫",
+        "octave": 6,
+        "piano_key": 66,
+        "Hz": 1174.66,
+        "natural": "D6",
+        "sharp": "C𝄪6",
+        "flat": "E𝄫6"
+    },
+    "C♯6": {
+        "letter": "C",
+        "accidental": "♯",
+        "octave": 6,
+        "piano_key": 65,
+        "Hz": 1108.73,
+        "natural": "",
+        "sharp": "C♯6",
+        "flat": "D♭6"
+    },
+    "D♭6": {
+        "letter": "D",
+        "accidental": "♭",
+        "octave": 6,
+        "piano_key": 65,
+        "Hz": 1108.73,
+        "natural": "",
+        "sharp": "C♯6",
+        "flat": "D♭6"
+    },
+    "B♯5": {
+        "letter": "B",
+        "accidental": "♯",
+        "octave": 5,
+        "piano_key": 64,
+        "Hz": 1046.5,
+        "natural": "C6",
+        "sharp": "B♯5",
+        "flat": "D𝄫6"
+    },
+    "C6": {
+        "letter": "C",
+        "accidental": "",
+        "octave": 6,
+        "piano_key": 64,
+        "Hz": 1046.5,
+        "natural": "C6",
+        "sharp": "B♯6",
+        "flat": "D𝄫6"
+    },
+    "D𝄫6": {
+        "letter": "D",
+        "accidental": "𝄫",
+        "octave": 6,
+        "piano_key": 64,
+        "Hz": 1046.5,
+        "natural": "C6",
+        "sharp": "B♯6",
+        "flat": "D𝄫6"
+    },
+    "A𝄪5": {
+        "letter": "A",
+        "accidental": "𝄪",
+        "octave": 5,
+        "piano_key": 63,
+        "Hz": 987.767,
+        "natural": "B5",
+        "sharp": "A𝄪5",
+        "flat": "C♭5"
+    },
+    "B5": {
+        "letter": "B",
+        "accidental": "",
+        "octave": 5,
+        "piano_key": 63,
+        "Hz": 987.767,
+        "natural": "B5",
+        "sharp": "A𝄪5",
+        "flat": "C♭5"
+    },
+    "C♭6": {
+        "letter": "C",
+        "accidental": "♭",
+        "octave": 6,
+        "piano_key": 63,
+        "Hz": 987.767,
+        "natural": "B5",
+        "sharp": "A𝄪5",
+        "flat": "C♭6"
+    },
+    "A♯5": {
+        "letter": "A",
+        "accidental": "♯",
+        "octave": 5,
+        "piano_key": 62,
+        "Hz": 932.328,
+        "natural": "",
+        "sharp": "A♯5",
+        "flat": "B♭5"
+    },
+    "B♭5": {
+        "letter": "B",
+        "accidental": "♭",
+        "octave": 5,
+        "piano_key": 62,
+        "Hz": 932.328,
+        "natural": "",
+        "sharp": "A♯5",
+        "flat": "B♭5"
+    },
+    "G𝄪5": {
+        "letter": "G",
+        "accidental": "𝄪",
+        "octave": 5,
+        "piano_key": 61,
+        "Hz": 880,
+        "natural": "A5",
+        "sharp": "G𝄪5",
+        "flat": "B𝄫5"
+    },
+    "A5": {
+        "letter": "A",
+        "accidental": "",
+        "octave": 5,
+        "piano_key": 61,
+        "Hz": 880,
+        "natural": "A5",
+        "sharp": "G𝄪5",
+        "flat": "B𝄫5"
+    },
+    "B𝄫5": {
+        "letter": "B",
+        "accidental": "𝄫",
+        "octave": 5,
+        "piano_key": 61,
+        "Hz": 880,
+        "natural": "A5",
+        "sharp": "G𝄪5",
+        "flat": "B𝄫5"
+    },
+    "G♯5": {
+        "letter": "G",
+        "accidental": "♯",
+        "octave": 5,
+        "piano_key": 60,
+        "Hz": 830.609,
+        "natural": "",
+        "sharp": "G♯5",
+        "flat": "A♭5"
+    },
+    "A♭5": {
+        "letter": "A",
+        "accidental": "♭",
+        "octave": 5,
+        "piano_key": 60,
+        "Hz": 830.609,
+        "natural": "",
+        "sharp": "G♯5",
+        "flat": "A♭5"
+    },
+    "F𝄪5": {
+        "letter": "F",
+        "accidental": "𝄪",
+        "octave": 5,
+        "piano_key": 59,
+        "Hz": 783.991,
+        "natural": "G5",
+        "sharp": "F𝄪5",
+        "flat": "A𝄫5"
+    },
+    "G5": {
+        "letter": "G",
+        "accidental": "",
+        "octave": 5,
+        "piano_key": 59,
+        "Hz": 783.991,
+        "natural": "G5",
+        "sharp": "F𝄪5",
+        "flat": "A𝄫5"
+    },
+    "A𝄫5": {
+        "letter": "A",
+        "accidental": "𝄫",
+        "octave": 5,
+        "piano_key": 59,
+        "Hz": 783.991,
+        "natural": "G5",
+        "sharp": "F𝄪5",
+        "flat": "A𝄫5"
+    },
+    "F♯5": {
+        "letter": "F",
+        "accidental": "♯",
+        "octave": 5,
+        "piano_key": 58,
+        "Hz": 739.989,
+        "natural": "",
+        "sharp": "F♯5",
+        "flat": "G♭5"
+    },
+    "G♭5": {
+        "letter": "G",
+        "accidental": "♭",
+        "octave": 5,
+        "piano_key": 58,
+        "Hz": 739.989,
+        "natural": "",
+        "sharp": "F♯5",
+        "flat": "G♭5"
+    },
+    "E♯5": {
+        "letter": "E",
+        "accidental": "♯",
+        "octave": 5,
+        "piano_key": 57,
+        "Hz": 698.456,
+        "natural": "F5",
+        "sharp": "E♯5",
+        "flat": "G𝄫5"
+    },
+    "F5": {
+        "letter": "F",
+        "accidental": "",
+        "octave": 5,
+        "piano_key": 57,
+        "Hz": 698.456,
+        "natural": "F5",
+        "sharp": "E♯5",
+        "flat": "G𝄫5"
+    },
+    "G𝄫5": {
+        "letter": "G",
+        "accidental": "𝄫",
+        "octave": 5,
+        "piano_key": 57,
+        "Hz": 698.456,
+        "natural": "F5",
+        "sharp": "E♯5",
+        "flat": "G𝄫5"
+    },
+    "D𝄪5": {
+        "letter": "D",
+        "accidental": "𝄪",
+        "octave": 5,
+        "piano_key": 56,
+        "Hz": 659.255,
+        "natural": "E5",
+        "sharp": "D𝄪5",
+        "flat": "F♭5"
+    },
+    "E5": {
+        "letter": "E",
+        "accidental": "",
+        "octave": 5,
+        "piano_key": 56,
+        "Hz": 659.255,
+        "natural": "E5",
+        "sharp": "D𝄪5",
+        "flat": "F♭5"
+    },
+    "F♭5": {
+        "letter": "F",
+        "accidental": "♭",
+        "octave": 5,
+        "piano_key": 56,
+        "Hz": 659.255,
+        "natural": "E5",
+        "sharp": "D𝄪5",
+        "flat": "F♭5"
+    },
+    "D♯5": {
+        "letter": "D",
+        "accidental": "♯",
+        "octave": 5,
+        "piano_key": 55,
+        "Hz": 622.254,
+        "natural": "",
+        "sharp": "D♯5",
+        "flat": "E♭5"
+    },
+    "E♭5": {
+        "letter": "E",
+        "accidental": "♭",
+        "octave": 5,
+        "piano_key": 55,
+        "Hz": 622.254,
+        "natural": "",
+        "sharp": "D♯5",
+        "flat": "E♭5"
+    },
+    "C𝄪5": {
+        "letter": "C",
+        "accidental": "𝄪",
+        "octave": 5,
+        "piano_key": 54,
+        "Hz": 587.33,
+        "natural": "D5",
+        "sharp": "C𝄪5",
+        "flat": "E𝄫5"
+    },
+    "D5": {
+        "letter": "D",
+        "accidental": "",
+        "octave": 5,
+        "piano_key": 54,
+        "Hz": 587.33,
+        "natural": "D5",
+        "sharp": "C𝄪5",
+        "flat": "E𝄫5"
+    },
+    "E𝄫5": {
+        "letter": "E",
+        "accidental": "𝄫",
+        "octave": 5,
+        "piano_key": 54,
+        "Hz": 587.33,
+        "natural": "D5",
+        "sharp": "C𝄪5",
+        "flat": "E𝄫5"
+    },
+    "C♯5": {
+        "letter": "C",
+        "accidental": "♯",
+        "octave": 5,
+        "piano_key": 53,
+        "Hz": 554.365,
+        "natural": "",
+        "sharp": "C♯5",
+        "flat": "D♭5"
+    },
+    "D♭5": {
+        "letter": "D",
+        "accidental": "♭",
+        "octave": 5,
+        "piano_key": 53,
+        "Hz": 554.365,
+        "natural": "",
+        "sharp": "C♯5",
+        "flat": "D♭5"
+    },
+    "B♯4": {
+        "letter": "B",
+        "accidental": "♯",
+        "octave": 4,
+        "piano_key": 52,
+        "Hz": 523.251,
+        "natural": "C5",
+        "sharp": "B♯4",
+        "flat": "D𝄫5"
+    },
+    "C5": {
+        "letter": "C",
+        "accidental": "",
+        "octave": 5,
+        "piano_key": 52,
+        "Hz": 523.251,
+        "natural": "C5",
+        "sharp": "B♯5",
+        "flat": "D𝄫5"
+    },
+    "D𝄫5": {
+        "letter": "D",
+        "accidental": "𝄫",
+        "octave": 5,
+        "piano_key": 52,
+        "Hz": 523.251,
+        "natural": "C5",
+        "sharp": "B♯5",
+        "flat": "D𝄫5"
+    },
+    "A𝄪4": {
+        "letter": "A",
+        "accidental": "𝄪",
+        "octave": 4,
+        "piano_key": 51,
+        "Hz": 493.883,
+        "natural": "B4",
+        "sharp": "A𝄪4",
+        "flat": "C♭4"
+    },
+    "B4": {
+        "letter": "B",
+        "accidental": "",
+        "octave": 4,
+        "piano_key": 51,
+        "Hz": 493.883,
+        "natural": "B4",
+        "sharp": "A𝄪4",
+        "flat": "C♭4"
+    },
+    "C♭5": {
+        "letter": "C",
+        "accidental": "♭",
+        "octave": 5,
+        "piano_key": 51,
+        "Hz": 493.883,
+        "natural": "B4",
+        "sharp": "A𝄪4",
+        "flat": "C♭5"
+    },
+    "A♯4": {
+        "letter": "A",
+        "accidental": "♯",
+        "octave": 4,
+        "piano_key": 50,
+        "Hz": 466.164,
+        "natural": "",
+        "sharp": "A♯4",
+        "flat": "B♭4"
+    },
+    "B♭4": {
+        "letter": "B",
+        "accidental": "♭",
+        "octave": 4,
+        "piano_key": 50,
+        "Hz": 466.164,
+        "natural": "",
+        "sharp": "A♯4",
+        "flat": "B♭4"
+    },
+    "G𝄪4": {
+        "letter": "G",
+        "accidental": "𝄪",
+        "octave": 4,
+        "piano_key": 49,
+        "Hz": 440,
+        "natural": "A4",
+        "sharp": "G𝄪4",
+        "flat": "B𝄫4"
+    },
+    "A4": {
+        "letter": "A",
+        "accidental": "",
+        "octave": 4,
+        "piano_key": 49,
+        "Hz": 440,
+        "natural": "A4",
+        "sharp": "G𝄪4",
+        "flat": "B𝄫4"
+    },
+    "B𝄫4": {
+        "letter": "B",
+        "accidental": "𝄫",
+        "octave": 4,
+        "piano_key": 49,
+        "Hz": 440,
+        "natural": "A4",
+        "sharp": "G𝄪4",
+        "flat": "B𝄫4"
+    },
+    "G♯4": {
+        "letter": "G",
+        "accidental": "♯",
+        "octave": 4,
+        "piano_key": 48,
+        "Hz": 415.305,
+        "natural": "",
+        "sharp": "G♯4",
+        "flat": "A♭4"
+    },
+    "A♭4": {
+        "letter": "A",
+        "accidental": "♭",
+        "octave": 4,
+        "piano_key": 48,
+        "Hz": 415.305,
+        "natural": "",
+        "sharp": "G♯4",
+        "flat": "A♭4"
+    },
+    "F𝄪4": {
+        "letter": "F",
+        "accidental": "𝄪",
+        "octave": 4,
+        "piano_key": 47,
+        "Hz": 391.995,
+        "natural": "G4",
+        "sharp": "F𝄪4",
+        "flat": "A𝄫4"
+    },
+    "G4": {
+        "letter": "G",
+        "accidental": "",
+        "octave": 4,
+        "piano_key": 47,
+        "Hz": 391.995,
+        "natural": "G4",
+        "sharp": "F𝄪4",
+        "flat": "A𝄫4"
+    },
+    "A𝄫4": {
+        "letter": "A",
+        "accidental": "𝄫",
+        "octave": 4,
+        "piano_key": 47,
+        "Hz": 391.995,
+        "natural": "G4",
+        "sharp": "F𝄪4",
+        "flat": "A𝄫4"
+    },
+    "F♯4": {
+        "letter": "F",
+        "accidental": "♯",
+        "octave": 4,
+        "piano_key": 46,
+        "Hz": 369.994,
+        "natural": "",
+        "sharp": "F♯4",
+        "flat": "G♭4"
+    },
+    "G♭4": {
+        "letter": "G",
+        "accidental": "♭",
+        "octave": 4,
+        "piano_key": 46,
+        "Hz": 369.994,
+        "natural": "",
+        "sharp": "F♯4",
+        "flat": "G♭4"
+    },
+    "E♯4": {
+        "letter": "E",
+        "accidental": "♯",
+        "octave": 4,
+        "piano_key": 45,
+        "Hz": 349.228,
+        "natural": "F4",
+        "sharp": "E♯4",
+        "flat": "G𝄫4"
+    },
+    "F4": {
+        "letter": "F",
+        "accidental": "",
+        "octave": 4,
+        "piano_key": 45,
+        "Hz": 349.228,
+        "natural": "F4",
+        "sharp": "E♯4",
+        "flat": "G𝄫4"
+    },
+    "G𝄫4": {
+        "letter": "G",
+        "accidental": "𝄫",
+        "octave": 4,
+        "piano_key": 45,
+        "Hz": 349.228,
+        "natural": "F4",
+        "sharp": "E♯4",
+        "flat": "G𝄫4"
+    },
+    "D𝄪4": {
+        "letter": "D",
+        "accidental": "𝄪",
+        "octave": 4,
+        "piano_key": 44,
+        "Hz": 329.628,
+        "natural": "E4",
+        "sharp": "D𝄪4",
+        "flat": "F♭4"
+    },
+    "E4": {
+        "letter": "E",
+        "accidental": "",
+        "octave": 4,
+        "piano_key": 44,
+        "Hz": 329.628,
+        "natural": "E4",
+        "sharp": "D𝄪4",
+        "flat": "F♭4"
+    },
+    "F♭4": {
+        "letter": "F",
+        "accidental": "♭",
+        "octave": 4,
+        "piano_key": 44,
+        "Hz": 329.628,
+        "natural": "E4",
+        "sharp": "D𝄪4",
+        "flat": "F♭4"
+    },
+    "D♯4": {
+        "letter": "D",
+        "accidental": "♯",
+        "octave": 4,
+        "piano_key": 43,
+        "Hz": 311.127,
+        "natural": "",
+        "sharp": "D♯4",
+        "flat": "E♭4"
+    },
+    "E♭4": {
+        "letter": "E",
+        "accidental": "♭",
+        "octave": 4,
+        "piano_key": 43,
+        "Hz": 311.127,
+        "natural": "",
+        "sharp": "D♯4",
+        "flat": "E♭4"
+    },
+    "C𝄪4": {
+        "letter": "C",
+        "accidental": "𝄪",
+        "octave": 4,
+        "piano_key": 42,
+        "Hz": 293.665,
+        "natural": "D4",
+        "sharp": "C𝄪4",
+        "flat": "E𝄫4"
+    },
+    "D4": {
+        "letter": "D",
+        "accidental": "",
+        "octave": 4,
+        "piano_key": 42,
+        "Hz": 293.665,
+        "natural": "D4",
+        "sharp": "C𝄪4",
+        "flat": "E𝄫4"
+    },
+    "E𝄫4": {
+        "letter": "E",
+        "accidental": "𝄫",
+        "octave": 4,
+        "piano_key": 42,
+        "Hz": 293.665,
+        "natural": "D4",
+        "sharp": "C𝄪4",
+        "flat": "E𝄫4"
+    },
+    "C♯4": {
+        "letter": "C",
+        "accidental": "♯",
+        "octave": 4,
+        "piano_key": 41,
+        "Hz": 277.183,
+        "natural": "",
+        "sharp": "C♯4",
+        "flat": "D♭4"
+    },
+    "D♭4": {
+        "letter": "D",
+        "accidental": "♭",
+        "octave": 4,
+        "piano_key": 41,
+        "Hz": 277.183,
+        "natural": "",
+        "sharp": "C♯4",
+        "flat": "D♭4"
+    },
+    "B♯3": {
+        "letter": "B",
+        "accidental": "♯",
+        "octave": 3,
+        "piano_key": 40,
+        "Hz": 261.626,
+        "natural": "C4",
+        "sharp": "B♯3",
+        "flat": "D𝄫4"
+    },
+    "C4": {
+        "letter": "C",
+        "accidental": "",
+        "octave": 4,
+        "piano_key": 40,
+        "Hz": 261.626,
+        "natural": "C4",
+        "sharp": "B♯4",
+        "flat": "D𝄫4"
+    },
+    "D𝄫4": {
+        "letter": "D",
+        "accidental": "𝄫",
+        "octave": 4,
+        "piano_key": 40,
+        "Hz": 261.626,
+        "natural": "C4",
+        "sharp": "B♯4",
+        "flat": "D𝄫4"
+    },
+    "A𝄪3": {
+        "letter": "A",
+        "accidental": "𝄪",
+        "octave": 3,
+        "piano_key": 39,
+        "Hz": 246.942,
+        "natural": "B3",
+        "sharp": "A𝄪3",
+        "flat": "C♭3"
+    },
+    "B3": {
+        "letter": "B",
+        "accidental": "",
+        "octave": 3,
+        "piano_key": 39,
+        "Hz": 246.942,
+        "natural": "B3",
+        "sharp": "A𝄪3",
+        "flat": "C♭3"
+    },
+    "C♭4": {
+        "letter": "C",
+        "accidental": "♭",
+        "octave": 4,
+        "piano_key": 39,
+        "Hz": 246.942,
+        "natural": "B3",
+        "sharp": "A𝄪3",
+        "flat": "C♭4"
+    },
+    "A♯3": {
+        "letter": "A",
+        "accidental": "♯",
+        "octave": 3,
+        "piano_key": 38,
+        "Hz": 233.082,
+        "natural": "",
+        "sharp": "A♯3",
+        "flat": "B♭3"
+    },
+    "B♭3": {
+        "letter": "B",
+        "accidental": "♭",
+        "octave": 3,
+        "piano_key": 38,
+        "Hz": 233.082,
+        "natural": "",
+        "sharp": "A♯3",
+        "flat": "B♭3"
+    },
+    "G𝄪3": {
+        "letter": "G",
+        "accidental": "𝄪",
+        "octave": 3,
+        "piano_key": 37,
+        "Hz": 220,
+        "natural": "A3",
+        "sharp": "G𝄪3",
+        "flat": "B𝄫3"
+    },
+    "A3": {
+        "letter": "A",
+        "accidental": "",
+        "octave": 3,
+        "piano_key": 37,
+        "Hz": 220,
+        "natural": "A3",
+        "sharp": "G𝄪3",
+        "flat": "B𝄫3"
+    },
+    "B𝄫3": {
+        "letter": "B",
+        "accidental": "𝄫",
+        "octave": 3,
+        "piano_key": 37,
+        "Hz": 220,
+        "natural": "A3",
+        "sharp": "G𝄪3",
+        "flat": "B𝄫3"
+    },
+    "G♯3": {
+        "letter": "G",
+        "accidental": "♯",
+        "octave": 3,
+        "piano_key": 36,
+        "Hz": 207.652,
+        "natural": "",
+        "sharp": "G♯3",
+        "flat": "A♭3"
+    },
+    "A♭3": {
+        "letter": "A",
+        "accidental": "♭",
+        "octave": 3,
+        "piano_key": 36,
+        "Hz": 207.652,
+        "natural": "",
+        "sharp": "G♯3",
+        "flat": "A♭3"
+    },
+    "F𝄪3": {
+        "letter": "F",
+        "accidental": "𝄪",
+        "octave": 3,
+        "piano_key": 35,
+        "Hz": 195.998,
+        "natural": "G3",
+        "sharp": "F𝄪3",
+        "flat": "A𝄫3"
+    },
+    "G3": {
+        "letter": "G",
+        "accidental": "",
+        "octave": 3,
+        "piano_key": 35,
+        "Hz": 195.998,
+        "natural": "G3",
+        "sharp": "F𝄪3",
+        "flat": "A𝄫3"
+    },
+    "A𝄫3": {
+        "letter": "A",
+        "accidental": "𝄫",
+        "octave": 3,
+        "piano_key": 35,
+        "Hz": 195.998,
+        "natural": "G3",
+        "sharp": "F𝄪3",
+        "flat": "A𝄫3"
+    },
+    "F♯3": {
+        "letter": "F",
+        "accidental": "♯",
+        "octave": 3,
+        "piano_key": 34,
+        "Hz": 184.997,
+        "natural": "",
+        "sharp": "F♯3",
+        "flat": "G♭3"
+    },
+    "G♭3": {
+        "letter": "G",
+        "accidental": "♭",
+        "octave": 3,
+        "piano_key": 34,
+        "Hz": 184.997,
+        "natural": "",
+        "sharp": "F♯3",
+        "flat": "G♭3"
+    },
+    "E♯3": {
+        "letter": "E",
+        "accidental": "♯",
+        "octave": 3,
+        "piano_key": 33,
+        "Hz": 174.614,
+        "natural": "F3",
+        "sharp": "E♯3",
+        "flat": "G𝄫3"
+    },
+    "F3": {
+        "letter": "F",
+        "accidental": "",
+        "octave": 3,
+        "piano_key": 33,
+        "Hz": 174.614,
+        "natural": "F3",
+        "sharp": "E♯3",
+        "flat": "G𝄫3"
+    },
+    "G𝄫3": {
+        "letter": "G",
+        "accidental": "𝄫",
+        "octave": 3,
+        "piano_key": 33,
+        "Hz": 174.614,
+        "natural": "F3",
+        "sharp": "E♯3",
+        "flat": "G𝄫3"
+    },
+    "D𝄪3": {
+        "letter": "D",
+        "accidental": "𝄪",
+        "octave": 3,
+        "piano_key": 32,
+        "Hz": 164.814,
+        "natural": "E3",
+        "sharp": "D𝄪3",
+        "flat": "F♭3"
+    },
+    "E3": {
+        "letter": "E",
+        "accidental": "",
+        "octave": 3,
+        "piano_key": 32,
+        "Hz": 164.814,
+        "natural": "E3",
+        "sharp": "D𝄪3",
+        "flat": "F♭3"
+    },
+    "F♭3": {
+        "letter": "F",
+        "accidental": "♭",
+        "octave": 3,
+        "piano_key": 32,
+        "Hz": 164.814,
+        "natural": "E3",
+        "sharp": "D𝄪3",
+        "flat": "F♭3"
+    },
+    "D♯3": {
+        "letter": "D",
+        "accidental": "♯",
+        "octave": 3,
+        "piano_key": 31,
+        "Hz": 155.563,
+        "natural": "",
+        "sharp": "D♯3",
+        "flat": "E♭3"
+    },
+    "E♭3": {
+        "letter": "E",
+        "accidental": "♭",
+        "octave": 3,
+        "piano_key": 31,
+        "Hz": 155.563,
+        "natural": "",
+        "sharp": "D♯3",
+        "flat": "E♭3"
+    },
+    "C𝄪3": {
+        "letter": "C",
+        "accidental": "𝄪",
+        "octave": 3,
+        "piano_key": 30,
+        "Hz": 146.832,
+        "natural": "D3",
+        "sharp": "C𝄪3",
+        "flat": "E𝄫3"
+    },
+    "D3": {
+        "letter": "D",
+        "accidental": "",
+        "octave": 3,
+        "piano_key": 30,
+        "Hz": 146.832,
+        "natural": "D3",
+        "sharp": "C𝄪3",
+        "flat": "E𝄫3"
+    },
+    "E𝄫3": {
+        "letter": "E",
+        "accidental": "𝄫",
+        "octave": 3,
+        "piano_key": 30,
+        "Hz": 146.832,
+        "natural": "D3",
+        "sharp": "C𝄪3",
+        "flat": "E𝄫3"
+    },
+    "C♯3": {
+        "letter": "C",
+        "accidental": "♯",
+        "octave": 3,
+        "piano_key": 29,
+        "Hz": 138.591,
+        "natural": "",
+        "sharp": "C♯3",
+        "flat": "D♭3"
+    },
+    "D♭3": {
+        "letter": "D",
+        "accidental": "♭",
+        "octave": 3,
+        "piano_key": 29,
+        "Hz": 138.591,
+        "natural": "",
+        "sharp": "C♯3",
+        "flat": "D♭3"
+    },
+    "B♯2": {
+        "letter": "B",
+        "accidental": "♯",
+        "octave": 2,
+        "piano_key": 28,
+        "Hz": 130.813,
+        "natural": "C3",
+        "sharp": "B♯2",
+        "flat": "D𝄫3"
+    },
+    "C3": {
+        "letter": "C",
+        "accidental": "",
+        "octave": 3,
+        "piano_key": 28,
+        "Hz": 130.813,
+        "natural": "C3",
+        "sharp": "B♯3",
+        "flat": "D𝄫3"
+    },
+    "D𝄫3": {
+        "letter": "D",
+        "accidental": "𝄫",
+        "octave": 3,
+        "piano_key": 28,
+        "Hz": 130.813,
+        "natural": "C3",
+        "sharp": "B♯3",
+        "flat": "D𝄫3"
+    },
+    "A𝄪2": {
+        "letter": "A",
+        "accidental": "𝄪",
+        "octave": 2,
+        "piano_key": 27,
+        "Hz": 123.471,
+        "natural": "B2",
+        "sharp": "A𝄪2",
+        "flat": "C♭2"
+    },
+    "B2": {
+        "letter": "B",
+        "accidental": "",
+        "octave": 2,
+        "piano_key": 27,
+        "Hz": 123.471,
+        "natural": "B2",
+        "sharp": "A𝄪2",
+        "flat": "C♭2"
+    },
+    "C♭3": {
+        "letter": "C",
+        "accidental": "♭",
+        "octave": 3,
+        "piano_key": 27,
+        "Hz": 123.471,
+        "natural": "B2",
+        "sharp": "A𝄪2",
+        "flat": "C♭3"
+    },
+    "A♯2": {
+        "letter": "A",
+        "accidental": "♯",
+        "octave": 2,
+        "piano_key": 26,
+        "Hz": 116.541,
+        "natural": "",
+        "sharp": "A♯2",
+        "flat": "B♭2"
+    },
+    "B♭2": {
+        "letter": "B",
+        "accidental": "♭",
+        "octave": 2,
+        "piano_key": 26,
+        "Hz": 116.541,
+        "natural": "",
+        "sharp": "A♯2",
+        "flat": "B♭2"
+    },
+    "G𝄪2": {
+        "letter": "G",
+        "accidental": "𝄪",
+        "octave": 2,
+        "piano_key": 25,
+        "Hz": 110,
+        "natural": "A2",
+        "sharp": "G𝄪2",
+        "flat": "B𝄫2"
+    },
+    "A2": {
+        "letter": "A",
+        "accidental": "",
+        "octave": 2,
+        "piano_key": 25,
+        "Hz": 110,
+        "natural": "A2",
+        "sharp": "G𝄪2",
+        "flat": "B𝄫2"
+    },
+    "B𝄫2": {
+        "letter": "B",
+        "accidental": "𝄫",
+        "octave": 2,
+        "piano_key": 25,
+        "Hz": 110,
+        "natural": "A2",
+        "sharp": "G𝄪2",
+        "flat": "B𝄫2"
+    },
+    "G♯2": {
+        "letter": "G",
+        "accidental": "♯",
+        "octave": 2,
+        "piano_key": 24,
+        "Hz": 103.826,
+        "natural": "",
+        "sharp": "G♯2",
+        "flat": "A♭2"
+    },
+    "A♭2": {
+        "letter": "A",
+        "accidental": "♭",
+        "octave": 2,
+        "piano_key": 24,
+        "Hz": 103.826,
+        "natural": "",
+        "sharp": "G♯2",
+        "flat": "A♭2"
+    },
+    "F𝄪2": {
+        "letter": "F",
+        "accidental": "𝄪",
+        "octave": 2,
+        "piano_key": 23,
+        "Hz": 97.9989,
+        "natural": "G2",
+        "sharp": "F𝄪2",
+        "flat": "A𝄫2"
+    },
+    "G2": {
+        "letter": "G",
+        "accidental": "",
+        "octave": 2,
+        "piano_key": 23,
+        "Hz": 97.9989,
+        "natural": "G2",
+        "sharp": "F𝄪2",
+        "flat": "A𝄫2"
+    },
+    "A𝄫2": {
+        "letter": "A",
+        "accidental": "𝄫",
+        "octave": 2,
+        "piano_key": 23,
+        "Hz": 97.9989,
+        "natural": "G2",
+        "sharp": "F𝄪2",
+        "flat": "A𝄫2"
+    },
+    "F♯2": {
+        "letter": "F",
+        "accidental": "♯",
+        "octave": 2,
+        "piano_key": 22,
+        "Hz": 92.4986,
+        "natural": "",
+        "sharp": "F♯2",
+        "flat": "G♭2"
+    },
+    "G♭2": {
+        "letter": "G",
+        "accidental": "♭",
+        "octave": 2,
+        "piano_key": 22,
+        "Hz": 92.4986,
+        "natural": "",
+        "sharp": "F♯2",
+        "flat": "G♭2"
+    },
+    "E♯2": {
+        "letter": "E",
+        "accidental": "♯",
+        "octave": 2,
+        "piano_key": 21,
+        "Hz": 87.3071,
+        "natural": "F2",
+        "sharp": "E♯2",
+        "flat": "G𝄫2"
+    },
+    "F2": {
+        "letter": "F",
+        "accidental": "",
+        "octave": 2,
+        "piano_key": 21,
+        "Hz": 87.3071,
+        "natural": "F2",
+        "sharp": "E♯2",
+        "flat": "G𝄫2"
+    },
+    "G𝄫2": {
+        "letter": "G",
+        "accidental": "𝄫",
+        "octave": 2,
+        "piano_key": 21,
+        "Hz": 87.3071,
+        "natural": "F2",
+        "sharp": "E♯2",
+        "flat": "G𝄫2"
+    },
+    "D𝄪2": {
+        "letter": "D",
+        "accidental": "𝄪",
+        "octave": 2,
+        "piano_key": 20,
+        "Hz": 82.4069,
+        "natural": "E2",
+        "sharp": "D𝄪2",
+        "flat": "F♭2"
+    },
+    "E2": {
+        "letter": "E",
+        "accidental": "",
+        "octave": 2,
+        "piano_key": 20,
+        "Hz": 82.4069,
+        "natural": "E2",
+        "sharp": "D𝄪2",
+        "flat": "F♭2"
+    },
+    "F♭2": {
+        "letter": "F",
+        "accidental": "♭",
+        "octave": 2,
+        "piano_key": 20,
+        "Hz": 82.4069,
+        "natural": "E2",
+        "sharp": "D𝄪2",
+        "flat": "F♭2"
+    },
+    "D♯2": {
+        "letter": "D",
+        "accidental": "♯",
+        "octave": 2,
+        "piano_key": 19,
+        "Hz": 77.7817,
+        "natural": "",
+        "sharp": "D♯2",
+        "flat": "E♭2"
+    },
+    "E♭2": {
+        "letter": "E",
+        "accidental": "♭",
+        "octave": 2,
+        "piano_key": 19,
+        "Hz": 77.7817,
+        "natural": "",
+        "sharp": "D♯2",
+        "flat": "E♭2"
+    },
+    "C𝄪2": {
+        "letter": "C",
+        "accidental": "𝄪",
+        "octave": 2,
+        "piano_key": 18,
+        "Hz": 73.4162,
+        "natural": "D2",
+        "sharp": "C𝄪2",
+        "flat": "E𝄫2"
+    },
+    "D2": {
+        "letter": "D",
+        "accidental": "",
+        "octave": 2,
+        "piano_key": 18,
+        "Hz": 73.4162,
+        "natural": "D2",
+        "sharp": "C𝄪2",
+        "flat": "E𝄫2"
+    },
+    "E𝄫2": {
+        "letter": "E",
+        "accidental": "𝄫",
+        "octave": 2,
+        "piano_key": 18,
+        "Hz": 73.4162,
+        "natural": "D2",
+        "sharp": "C𝄪2",
+        "flat": "E𝄫2"
+    },
+    "C♯2": {
+        "letter": "C",
+        "accidental": "♯",
+        "octave": 2,
+        "piano_key": 17,
+        "Hz": 69.2957,
+        "natural": "",
+        "sharp": "C♯2",
+        "flat": "D♭2"
+    },
+    "D♭2": {
+        "letter": "D",
+        "accidental": "♭",
+        "octave": 2,
+        "piano_key": 17,
+        "Hz": 69.2957,
+        "natural": "",
+        "sharp": "C♯2",
+        "flat": "D♭2"
+    },
+    "B♯1": {
+        "letter": "B",
+        "accidental": "♯",
+        "octave": 1,
+        "piano_key": 16,
+        "Hz": 65.4064,
+        "natural": "C2",
+        "sharp": "B♯1",
+        "flat": "D𝄫2"
+    },
+    "C2": {
+        "letter": "C",
+        "accidental": "",
+        "octave": 2,
+        "piano_key": 16,
+        "Hz": 65.4064,
+        "natural": "C2",
+        "sharp": "B♯2",
+        "flat": "D𝄫2"
+    },
+    "D𝄫2": {
+        "letter": "D",
+        "accidental": "𝄫",
+        "octave": 2,
+        "piano_key": 16,
+        "Hz": 65.4064,
+        "natural": "C2",
+        "sharp": "B♯2",
+        "flat": "D𝄫2"
+    },
+    "A𝄪1": {
+        "letter": "A",
+        "accidental": "𝄪",
+        "octave": 1,
+        "piano_key": 15,
+        "Hz": 61.7354,
+        "natural": "B1",
+        "sharp": "A𝄪1",
+        "flat": "C♭1"
+    },
+    "B1": {
+        "letter": "B",
+        "accidental": "",
+        "octave": 1,
+        "piano_key": 15,
+        "Hz": 61.7354,
+        "natural": "B1",
+        "sharp": "A𝄪1",
+        "flat": "C♭1"
+    },
+    "C♭2": {
+        "letter": "C",
+        "accidental": "♭",
+        "octave": 2,
+        "piano_key": 15,
+        "Hz": 61.7354,
+        "natural": "B1",
+        "sharp": "A𝄪1",
+        "flat": "C♭2"
+    },
+    "A♯1": {
+        "letter": "A",
+        "accidental": "♯",
+        "octave": 1,
+        "piano_key": 14,
+        "Hz": 58.2705,
+        "natural": "",
+        "sharp": "A♯1",
+        "flat": "B♭1"
+    },
+    "B♭1": {
+        "letter": "B",
+        "accidental": "♭",
+        "octave": 1,
+        "piano_key": 14,
+        "Hz": 58.2705,
+        "natural": "",
+        "sharp": "A♯1",
+        "flat": "B♭1"
+    },
+    "G𝄪1": {
+        "letter": "G",
+        "accidental": "𝄪",
+        "octave": 1,
+        "piano_key": 13,
+        "Hz": 55,
+        "natural": "A1",
+        "sharp": "G𝄪1",
+        "flat": "B𝄫1"
+    },
+    "A1": {
+        "letter": "A",
+        "accidental": "",
+        "octave": 1,
+        "piano_key": 13,
+        "Hz": 55,
+        "natural": "A1",
+        "sharp": "G𝄪1",
+        "flat": "B𝄫1"
+    },
+    "B𝄫1": {
+        "letter": "B",
+        "accidental": "𝄫",
+        "octave": 1,
+        "piano_key": 13,
+        "Hz": 55,
+        "natural": "A1",
+        "sharp": "G𝄪1",
+        "flat": "B𝄫1"
+    },
+    "G♯1": {
+        "letter": "G",
+        "accidental": "♯",
+        "octave": 1,
+        "piano_key": 12,
+        "Hz": 51.913,
+        "natural": "",
+        "sharp": "G♯1",
+        "flat": "A♭1"
+    },
+    "A♭1": {
+        "letter": "A",
+        "accidental": "♭",
+        "octave": 1,
+        "piano_key": 12,
+        "Hz": 51.913,
+        "natural": "",
+        "sharp": "G♯1",
+        "flat": "A♭1"
+    },
+    "F𝄪1": {
+        "letter": "F",
+        "accidental": "𝄪",
+        "octave": 1,
+        "piano_key": 11,
+        "Hz": 48.9995,
+        "natural": "G1",
+        "sharp": "F𝄪1",
+        "flat": "A𝄫1"
+    },
+    "G1": {
+        "letter": "G",
+        "accidental": "",
+        "octave": 1,
+        "piano_key": 11,
+        "Hz": 48.9995,
+        "natural": "G1",
+        "sharp": "F𝄪1",
+        "flat": "A𝄫1"
+    },
+    "A𝄫1": {
+        "letter": "A",
+        "accidental": "𝄫",
+        "octave": 1,
+        "piano_key": 11,
+        "Hz": 48.9995,
+        "natural": "G1",
+        "sharp": "F𝄪1",
+        "flat": "A𝄫1"
+    },
+    "F♯1": {
+        "letter": "F",
+        "accidental": "♯",
+        "octave": 1,
+        "piano_key": 10,
+        "Hz": 46.2493,
+        "natural": "",
+        "sharp": "F♯1",
+        "flat": "G♭1"
+    },
+    "G♭1": {
+        "letter": "G",
+        "accidental": "♭",
+        "octave": 1,
+        "piano_key": 10,
+        "Hz": 46.2493,
+        "natural": "",
+        "sharp": "F♯1",
+        "flat": "G♭1"
+    },
+    "E♯1": {
+        "letter": "E",
+        "accidental": "♯",
+        "octave": 1,
+        "piano_key": 9,
+        "Hz": 43.6536,
+        "natural": "F1",
+        "sharp": "E♯1",
+        "flat": "G𝄫1"
+    },
+    "F1": {
+        "letter": "F",
+        "accidental": "",
+        "octave": 1,
+        "piano_key": 9,
+        "Hz": 43.6536,
+        "natural": "F1",
+        "sharp": "E♯1",
+        "flat": "G𝄫1"
+    },
+    "G𝄫1": {
+        "letter": "G",
+        "accidental": "𝄫",
+        "octave": 1,
+        "piano_key": 9,
+        "Hz": 43.6536,
+        "natural": "F1",
+        "sharp": "E♯1",
+        "flat": "G𝄫1"
+    },
+    "D𝄪1": {
+        "letter": "D",
+        "accidental": "𝄪",
+        "octave": 1,
+        "piano_key": 8,
+        "Hz": 41.2035,
+        "natural": "E1",
+        "sharp": "D𝄪1",
+        "flat": "F♭1"
+    },
+    "E1": {
+        "letter": "E",
+        "accidental": "",
+        "octave": 1,
+        "piano_key": 8,
+        "Hz": 41.2035,
+        "natural": "E1",
+        "sharp": "D𝄪1",
+        "flat": "F♭1"
+    },
+    "F♭1": {
+        "letter": "F",
+        "accidental": "♭",
+        "octave": 1,
+        "piano_key": 8,
+        "Hz": 41.2035,
+        "natural": "E1",
+        "sharp": "D𝄪1",
+        "flat": "F♭1"
+    },
+    "D♯1": {
+        "letter": "D",
+        "accidental": "♯",
+        "octave": 1,
+        "piano_key": 7,
+        "Hz": 38.8909,
+        "natural": "",
+        "sharp": "D♯1",
+        "flat": "E♭1"
+    },
+    "E♭1": {
+        "letter": "E",
+        "accidental": "♭",
+        "octave": 1,
+        "piano_key": 7,
+        "Hz": 38.8909,
+        "natural": "",
+        "sharp": "D♯1",
+        "flat": "E♭1"
+    },
+    "C𝄪1": {
+        "letter": "C",
+        "accidental": "𝄪",
+        "octave": 1,
+        "piano_key": 6,
+        "Hz": 36.7081,
+        "natural": "D1",
+        "sharp": "C𝄪1",
+        "flat": "E𝄫1"
+    },
+    "D1": {
+        "letter": "D",
+        "accidental": "",
+        "octave": 1,
+        "piano_key": 6,
+        "Hz": 36.7081,
+        "natural": "D1",
+        "sharp": "C𝄪1",
+        "flat": "E𝄫1"
+    },
+    "E𝄫1": {
+        "letter": "E",
+        "accidental": "𝄫",
+        "octave": 1,
+        "piano_key": 6,
+        "Hz": 36.7081,
+        "natural": "D1",
+        "sharp": "C𝄪1",
+        "flat": "E𝄫1"
+    },
+    "C♯1": {
+        "letter": "C",
+        "accidental": "♯",
+        "octave": 1,
+        "piano_key": 5,
+        "Hz": 34.6479,
+        "natural": "",
+        "sharp": "C♯1",
+        "flat": "D♭1"
+    },
+    "D♭1": {
+        "letter": "D",
+        "accidental": "♭",
+        "octave": 1,
+        "piano_key": 5,
+        "Hz": 34.6479,
+        "natural": "",
+        "sharp": "C♯1",
+        "flat": "D♭1"
+    },
+    "B♯0": {
+        "letter": "B",
+        "accidental": "♯",
+        "octave": 0,
+        "piano_key": 4,
+        "Hz": 32.7032,
+        "natural": "C1",
+        "sharp": "B♯0",
+        "flat": "D𝄫1"
+    },
+    "C1": {
+        "letter": "C",
+        "accidental": "",
+        "octave": 1,
+        "piano_key": 4,
+        "Hz": 32.7032,
+        "natural": "C1",
+        "sharp": "B♯1",
+        "flat": "D𝄫1"
+    },
+    "D𝄫1": {
+        "letter": "D",
+        "accidental": "𝄫",
+        "octave": 1,
+        "piano_key": 4,
+        "Hz": 32.7032,
+        "natural": "C1",
+        "sharp": "B♯1",
+        "flat": "D𝄫1"
+    },
+    "A𝄪0": {
+        "letter": "A",
+        "accidental": "𝄪",
+        "octave": 0,
+        "piano_key": 3,
+        "Hz": 30.8677,
+        "natural": "B0",
+        "sharp": "A𝄪0",
+        "flat": "C♭0"
+    },
+    "B0": {
+        "letter": "B",
+        "accidental": "",
+        "octave": 0,
+        "piano_key": 3,
+        "Hz": 30.8677,
+        "natural": "B0",
+        "sharp": "A𝄪0",
+        "flat": "C♭0"
+    },
+    "C♭1": {
+        "letter": "C",
+        "accidental": "♭",
+        "octave": 1,
+        "piano_key": 3,
+        "Hz": 30.8677,
+        "natural": "B0",
+        "sharp": "A𝄪0",
+        "flat": "C♭1"
+    },
+    "A♯0": {
+        "letter": "A",
+        "accidental": "♯",
+        "octave": 0,
+        "piano_key": 2,
+        "Hz": 29.1353,
+        "natural": "",
+        "sharp": "A♯0",
+        "flat": "B♭0"
+    },
+    "B♭0": {
+        "letter": "B",
+        "accidental": "♭",
+        "octave": 0,
+        "piano_key": 2,
+        "Hz": 29.1353,
+        "natural": "",
+        "sharp": "A♯0",
+        "flat": "B♭0"
+    },
+    "G𝄪0": {
+        "letter": "G",
+        "accidental": "𝄪",
+        "octave": 0,
+        "piano_key": 1,
+        "Hz": 27.5,
+        "natural": "A0",
+        "sharp": "G𝄪0",
+        "flat": "B𝄫0"
+    },
+    "A0": {
+        "letter": "A",
+        "accidental": "",
+        "octave": 0,
+        "piano_key": 1,
+        "Hz": 27.5,
+        "natural": "A0",
+        "sharp": "G𝄪0",
+        "flat": "B𝄫0"
+    },
+    "B𝄫0": {
+        "letter": "B",
+        "accidental": "𝄫",
+        "octave": 0,
+        "piano_key": 1,
+        "Hz": 27.5,
+        "natural": "A0",
+        "sharp": "G𝄪0",
+        "flat": "B𝄫0"
+    }
+}
