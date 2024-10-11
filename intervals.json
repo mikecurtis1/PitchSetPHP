@@ -167,7 +167,7 @@
         "diatonic_steps": 0,
         "chromatic_steps": -1
     },
-	"d2": {
+    "d2": {
         "code": "d2",
         "quality": "diminished",
         "name": "second",
@@ -216,7 +216,7 @@
         "diatonic_steps": 7,
         "chromatic_steps": 11
     },
-	"d9": {
+    "d9": {
         "code": "d9",
         "quality": "diminished",
         "name": "ninth",
