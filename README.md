@@ -111,6 +111,7 @@ $French_augmented_sixth_chord = new PitchSet($tables, 'C4', 'French_augmented_si
 ...
 ```
 Output: `C4 E4 F♯4 A♯4`
+```
 $lydian_dominant_scale = new PitchSet($tables, 'C4', 'lydian_dominant_scale');
 ...
 ```
