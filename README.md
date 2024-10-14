@@ -1,6 +1,6 @@
 # PitchSet
 
-A PHP application to generate musical pitch sets such as chords, scales, tetrachords, etc. A PitchSet object takes a base pitch along with a series of interval sizes defined in pitch_set_intervals.json and identified by a keyword then returns a ToneSet of pitches. PitchSet extends the Interval class which is responsible for taking a single pitch along with an interval size to return a pitch matching the interval size. Pitches are encoded using American Standard Pitch Notation (ASPN).
+A PHP application to generate musical pitch sets such as chords and scales. A PitchSet object takes a base pitch along with a series of interval sizes - defined in pitch_set_intervals.json and identified by a keyword - then returns a ToneSet of pitches. PitchSet extends the Interval class which is responsible for taking a single pitch along with an interval size to return a pitch matching the interval size. Pitches are encoded using American Standard Pitch Notation (ASPN).
 
 ## Classes and method examples
 
